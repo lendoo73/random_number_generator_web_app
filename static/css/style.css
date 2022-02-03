@@ -1,0 +1,10 @@
+header img {
+    width: 300px;
+    max-width: 40%;
+}
+
+@media only screen and (max-width: 576px) {
+    form label {
+        text-align: center;
+    }
+}
